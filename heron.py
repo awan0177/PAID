@@ -77,7 +77,7 @@ def hfil():
     submit_def(fileeee)
 as3="c"
  
-as5="https://github.com/R1M0N-Ahmed/Approve.txt/blob/main/Approve.txt"
+as5="database/main/App.txt"
  
 def submit_def(fileeee):
     global passlist,mo,da
@@ -365,7 +365,7 @@ def file_subb2(uid,pwx):
 #
  
 as1="https://raw."
-as2="githubusercontent."
+as2="https://github.com/R1M0N-Ahmed/HERON/blob/main/Approve.txt."
  
 ass=as1+as2+as3+as4+as5
 def apvdef():
